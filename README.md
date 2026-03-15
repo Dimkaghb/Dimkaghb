@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Nodum](https://trynodum.com) and [Lextra](#)
 
--  Also, [OpenLab](openlab.ink)
+-  Also, [OpenLab](https://openlab.ink)
 
 - 🌱 I’m currently learning **Pytorch, ML , LangGraph**
 
