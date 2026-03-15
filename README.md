@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinmukhammed Yntykbay</h1>
 <h3 align="center">Full-stack and AI-engineer</h3>
 
-- 🔭 I’m currently working on [Nodum](trynodum.com) and [Lextra](#)
+- 🔭 I’m currently working on [Nodum](https://trynodum.com) and [Lextra](#)
 
 -  Also, [OpenLab](openlab.ink)
 
